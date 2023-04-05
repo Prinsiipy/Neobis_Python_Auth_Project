@@ -6,12 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="90a3ca91-534a-4da3-ae8c-90e38f1ad718" name="Changes" comment="almost">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myproject/Tamplates" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myproject/Новая папка/base.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myproject/Новая папка/home.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myproject/Новая папка/registraton/login.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myproject/Новая папка/registraton/password_resert_form.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myproject/Новая папка/registraton/register.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myproject/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myproject/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/myproject/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myproject/.idea/myproject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/myproject/.idea/myproject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myproject/myproject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/myproject/myproject/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,14 +83,7 @@
       <option name="project" value="LOCAL" />
       <updated>1680714310186</updated>
     </task>
-    <task id="LOCAL-00002" summary="almost">
-      <created>1680714664868</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1680714664868</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
